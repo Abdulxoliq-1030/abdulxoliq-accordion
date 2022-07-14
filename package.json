@@ -1,0 +1,23 @@
+{
+  "name": "abdulxoliq-accordion",
+  "version": "1.0.0",
+  "description": "Accordion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulxoliq-1030/abdulxoliq-accordion.git"
+  },
+  "keywords": [
+    "abdulxoliq",
+    "accordion"
+  ],
+  "author": "Abdulxoliq Odiljonov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdulxoliq-1030/abdulxoliq-accordion/issues"
+  },
+  "homepage": "https://github.com/Abdulxoliq-1030/abdulxoliq-accordion#readme"
+}
